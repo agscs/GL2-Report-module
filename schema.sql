@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS `user_reports_reasons` (
   `URR_id` int(11) NOT NULL AUTO_INCREMENT,
   `URR_name` varchar(50) NOT NULL DEFAULT '0',
   PRIMARY KEY (`URR_id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 INSERT INTO `user_reports_reasons` (`URR_id`, `URR_name`) VALUES
 	(1, 'Other'),
