@@ -3,3 +3,7 @@ a small module for reporting players and getting them banned from ACP, made for 
 
 Gangster Legends (GL) v2 is a open source PBBG game engine written in PHP using a MySQL backend.
 GL game engine: https://github.com/ChristopherDay/Gangster-Legends-V2
+
+
+
+Got any idea contact me or fork the mod.
